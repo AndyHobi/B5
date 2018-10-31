@@ -10,6 +10,13 @@ public class PlaceToBeLewdedMain {
 		Scanner kbd = new Scanner(System.in);
 
 		String input;
+		String string;
+		System.out.println("who do you want to be lewded?");
+		string = kbd.nextLine();
+		LewdingClass.lewd(string);
+		
+		
+		
 		int rows = 0;
 		int columns = 0;
 		
