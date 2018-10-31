@@ -1,4 +1,4 @@
-package edu.wmich.cs1120.LA1;
+
 
 import java.util.Random;
 
